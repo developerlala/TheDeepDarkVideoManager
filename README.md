@@ -1,6 +1,6 @@
 # TheDeepDarkVideoManager
 
-라라의 프로그래밍  
+개발자 라라  
 -------------  
 [유튜브 채널 가기](https://www.youtube.com/channel/UCjWnBKjlXv550KDiBjtW8vQ)
 
